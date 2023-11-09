@@ -3,4 +3,5 @@
 Made with React and Firebase
 
 Deployed on AWS Amplify
-https://master.d3963aoi020v9l.amplifyapp.com/
+
+use react application for front end purpose
